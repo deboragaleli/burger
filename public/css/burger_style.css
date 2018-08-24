@@ -1,0 +1,40 @@
+body {
+  font-family: 'Patrick Hand', cursive;
+  width: 100%;
+  background-image: url('../img/burger_background.jpg');
+}
+
+h1 {
+  margin: auto 0;
+  margin-left: 20%;
+  margin-bottom: 3%;
+  margin-top: 2%;
+  color: #ffff;
+}
+
+#avail {
+  float: left;
+  margin-right: 6%;
+  margin-left: 10%;
+  color: #ffff;
+
+
+}
+
+#devoured {
+  float: left;
+  color:#ffff;
+
+}
+
+li {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+
+#add {
+  clear: both;
+  margin-left: 25%;
+  color: #ffff;
+}
